@@ -1,0 +1,2 @@
+# ScopeAndClosureCourse
+curso de platzi
